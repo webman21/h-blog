@@ -1,12 +1,8 @@
-## Welcome to GitHub Pages
+blank
 
-You can use the [editor on GitHub](https://github.com/webman21/upgraded-bassoon/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+blank
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+blank
 
 ```markdown
 Syntax highlighted code block
