@@ -1,3 +1,24 @@
-Hello there!
+Hello there
 
-This is my homepage for upgraded bassoon!
+I am the coding kid.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
