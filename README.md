@@ -1,24 +1,5 @@
 Hello there
 
-I am the coding kid.
+This is H's blog
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+It will include text, videos and stories
